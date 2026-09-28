@@ -1,4 +1,4 @@
-print("Mi primer proyecto con Git")
+print("Esta linea la cambie desde mi PC")
 nombre = "Christian"
 print(f"Hola {nombre}")
 print("Esta línea fue agregada desde GitHub")
